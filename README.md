@@ -1,2 +1,1 @@
-# AI-internship-hunter
-An AI based agent for internship search
+This is the Read me file for the Ai based intership hunter project.
